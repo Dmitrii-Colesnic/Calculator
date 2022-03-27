@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Calculator</string>
+    <string name="_123456789">123456789</string>
+    <string name="_7">7</string>
 </resources>
